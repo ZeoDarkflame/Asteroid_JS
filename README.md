@@ -4,12 +4,12 @@ To play the Game Simply clone the repository and place the Asteroids folder in t
 ## Intro
 My Version of the Classic Asteroid Game using Phaser 3
 
-![image](Asteroids/screens/Screen1.png)
+![image](https://github.com/ZeoDarkflame/Asteroid_JS/blob/master/Asteroids/Screens/Screen1.PNG)
 
 The Game runs on the Brower and adapts to the different screen sizes but aspect ratio of the Game Screen remains 1:1.
 
 Controls:-<br/>
-![image](Asteroids/screens/Screen4.png)<br/>
+![image](https://github.com/ZeoDarkflame/Asteroid_JS/blob/master/Asteroids/Screens/Screen4.PNG)<br/>
 The Game is played using Arrow Keys:<br/>
 Up Arrow - thrust in facing direction<br/>
 Left Arrow - rotate left<br/>
@@ -23,14 +23,14 @@ The Game consists of a Menu, a Gameplay scene and an ending scene.
 
 On first Play the player is required to enter their pseudonym to start playing and getting their score recorded.
 
-![image](Asteroids/screens/Screen2.png)
+![image](https://github.com/ZeoDarkflame/Asteroid_JS/blob/master/Asteroids/Screens/Screen2.PNG)
 
 There are three types of enemies:
 1) Small Asteroids - Normal enemy
 2) Large Asteroids - Break into two small asteroids on getting destroyed
 3) Enemy Spaceship - Hits the player to reduce speed and score.<br/>
 
-![image](Asteroids/screens/Screen3.png)
+![image](https://github.com/ZeoDarkflame/Asteroid_JS/blob/master/Asteroids/Screens/Screen3.PNG)
 ![image](Asteroids/assets/spaceship1.png)
 
 ## Powerups
@@ -46,6 +46,6 @@ There are 3 types of Powerups Available:<br/>
 
 ## Core Gameplay
 
-![image](Asteroids/screens/Screen5.png)
+![image](https://github.com/ZeoDarkflame/Asteroid_JS/blob/master/Asteroids/Screens/Screen5.PNG)
 
 Although the project is complete, some gameplay parameters like playerspeed and enemy ship speed have not yet been tweaked to provide an optimum experience.
